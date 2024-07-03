@@ -10,7 +10,7 @@ exclude_paths:
 
 engines:
   fixme:
-    enabled: true
+    enabled: false
     config:
       strings:
       - FIXME
